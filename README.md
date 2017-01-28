@@ -3,7 +3,7 @@
 Quick summary of the things I've learned
 
 - Don't share either the CS line (it selects the right display) or the RES line (u8g.begin() will clear BOTH displays if you do)
-- I've not been able to get [Adafruits SSD1306 library](https://github.com/adafruit/Adafruit_SSD1306) to work correctly with these displays. Not just with multiple, also one display showed a correct intro screen but a garbled mess after that. I have used this library successfully with other OLED displays, though, so YMMV.
+- I've not been able to get [Adafruits SSD1306 library](https://github.com/adafruit/Adafruit_SSD1306) to work correctly with these displays. Not just with multiple, also one display showed a correct intro screen but a garbled mess after that. I have used this library successfully with other SSD1306 OLED displays, though, so YMMV.
 - I have tried U8g2, but with a faulty pin configuration, so that MAY work.
 
 ## Longer version
