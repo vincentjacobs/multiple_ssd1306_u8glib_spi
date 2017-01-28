@@ -20,7 +20,7 @@ Connections:
 | RES 					| pin 8				| reset wire, RESET 				|
 | DC 					| pin 12 			| data/command, selection line 		|
 | CS 					| pin 10			| chip select, SS, Slave Select 	|
-|-----------------------|-------------------|-----------------------------------|
+
 | Second OLED          	| Arduino Pro Mini 	| Description 			            |
 |-----------------------|-------------------|-----------------------------------|
 | CS 					| pin 9	    		| chip select, SS, Slave Select 	|
