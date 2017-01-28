@@ -1,3 +1,5 @@
+# Two OLEDs simultaneously using U8glib with SPI
+
 I bought two cheap SPI OLED displays, more specifically these: 
 
 ![front](https://raw.githubusercontent.com/vincentjacobs/multiple_ssd1306_u8glib_spi/master/images/oled_front.jpg)
